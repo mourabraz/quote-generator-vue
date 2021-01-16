@@ -56,7 +56,6 @@ export default {
       .catch(console.error);
     },
     changePauseTimer(pause) {
-      console.log(pause);
       this.pauseTimer = pause;
     }
   }
