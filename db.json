@@ -1,0 +1,49 @@
+{ 
+  "slogans": [
+    {
+      "id":1,"user_id":1,
+      "author":"S\u00eaneca",
+      "body":"Sorte \u00e9 o que acontece quando a prepara\u00e7\u00e3o encontra a oportunidade",
+      "archived":false,
+      "deleted_at":null,
+      "created_at":"2018-10-13 16:33:47",
+      "updated_at":"2018-10-13 16:33:47"
+    },
+    {
+      "id":2,
+      "user_id":1,
+      "author":"Dem\u00f3stenes",
+      "body":"Pequenas oportunidades s\u00e3o frequentemente o in\u00edcio de grandes empreendimentos",
+      "archived":false,
+      "deleted_at":null,
+      "created_at":"2018-10-13 16:33:47",
+      "updated_at":"2018-10-13 16:33:47"
+    },
+    {"id":3,"user_id":1,"author":"Lao Ts\u00e9","body":"Fa\u00e7a as coisas mais dif\u00edceis enquanto s\u00e3o f\u00e1ceis e fa\u00e7a as grandes enquanto s\u00e3o pequenas. Uma jornada de 1000 milhas deve come\u00e7ar com um \u00fanico passo","archived":false,"deleted_at":null,"created_at":"2018-10-13 16:33:47","updated_at":"2018-10-13 16:33:47"},
+    {"id":4,"user_id":1,"author":"Lao Ts\u00e9","body":"Quando eu me despojo do que sou, me torno o que eu poderia ser","archived":false,"deleted_at":null,"created_at":"2018-10-13 16:33:47","updated_at":"2018-10-13 16:33:47"},
+    {"id":5,"user_id":1,"author":"Albert Einstein","body":"Todos somos muito ignorantes, o que ocorre \u00e9 que nem todos ignoramos as mesmas coisas","archived":false,"deleted_at":null,"created_at":"2018-10-13 16:33:47","updated_at":"2018-10-13 16:33:47"},
+    {"id":6,"user_id":1,"author":"Albert Einstein","body":"Somos arquitetos do nosso pr\u00f3prio destino","archived":false,"deleted_at":null,"created_at":"2018-10-13 16:33:47","updated_at":"2018-10-13 16:33:47"},
+    {"id":7,"user_id":1,"author":"Albert Einstein","body":"Qualquer um que nunca tenha cometido um erro nunca tentou algo novo","archived":false,"deleted_at":null,"created_at":"2018-10-13 16:33:47","updated_at":"2018-10-13 16:33:47"},
+    {"id":8,"user_id":1,"author":"Plat\u00e3o","body":"N\u00e3o espere por uma crise para descobrir o que \u00e9 importante em sua vida","archived":false,"deleted_at":null,"created_at":"2018-10-13 16:33:47","updated_at":"2018-10-13 16:33:47"},
+    {"id":9,"user_id":1,"author":"Plat\u00e3o","body":"Muitos odeiam a tirania apenas para que possam estabelecer a sua","archived":false,"deleted_at":null,"created_at":"2018-10-13 16:33:47","updated_at":"2018-10-13 16:33:47"},
+    {"id":10,"user_id":1,"author":"Plat\u00e3o","body":"A parte que ignoramos \u00e9 muito maior que tudo quanto sabemos","archived":false,"deleted_at":null,"created_at":"2018-10-13 16:33:47","updated_at":"2018-10-13 16:33:47"},
+    {"id":11,"user_id":1,"author":"Conf\u00facio","body":"O homem superior atribui a culpa a si pr\u00f3prio; o homem comum aos outros","archived":false,"deleted_at":null,"created_at":"2018-10-13 16:33:47","updated_at":"2018-10-13 16:33:47"},
+    {"id":12,"user_id":1,"author":"Conf\u00facio","body":"Se queres prever o futuro, estuda o passado","archived":false,"deleted_at":null,"created_at":"2018-10-13 16:33:47","updated_at":"2018-10-13 16:33:47"},
+    {"id":13,"user_id":1,"author":"Conf\u00facio","body":"Aja antes de falar e, portanto, fale de acordo com os seus atos","archived":false,"deleted_at":null,"created_at":"2018-10-13 16:33:47","updated_at":"2018-10-13 16:33:47"},
+    {"id":14,"user_id":1,"author":"Friedrich Nietzsche","body":"O que n\u00e3o provoca minha morte faz com que eu fique mais forte","archived":false,"deleted_at":null,"created_at":"2018-10-13 16:33:47","updated_at":"2018-10-13 16:33:47"},
+    {"id":15,"user_id":1,"author":"Arist\u00f3teles","body":"A felicidade depende de n\u00f3s mesmos","archived":false,"deleted_at":null,"created_at":"2018-10-13 16:33:47","updated_at":"2018-10-13 16:33:47"},
+    {"id":16,"user_id":1,"author":"Miyamoto Musashi","body":"A percep\u00e7\u00e3o \u00e9 forte e a vis\u00e3o \u00e9 fraca. Em estrat\u00e9gia, \u00e9 importante ver o que est\u00e1 distante como se estivesse pr\u00f3ximo e ter uma vis\u00e3o distanciada do que est\u00e1 pr\u00f3ximo","archived":false,"deleted_at":null,"created_at":"2018-10-13 16:33:47","updated_at":"2018-10-13 16:33:47"},
+    {"id":17,"user_id":1,"author":"Prov\u00e9rbio Chin\u00eas","body":"A melhor \u00e9poca para plantar uma \u00e1rvore foi h\u00e1 20 anos. A segunda melhor \u00e9 agora","archived":false,"deleted_at":null,"created_at":"2018-10-13 16:33:47","updated_at":"2018-10-13 16:33:47"},
+    {"id":18,"user_id":1,"author":"Arist\u00f3teles","body":"H\u00e1 apenas uma maneira de evitar cr\u00edticas: n\u00e3o fa\u00e7a nada, n\u00e3o diga nada, e n\u00e3o seja nada","archived":false,"deleted_at":null,"created_at":"2018-10-13 16:33:47","updated_at":"2018-10-13 16:33:47"},
+    {"id":19,"user_id":1,"author":"Lao Tzu","body":"Quando eu deixar de ser o que sou, eu irei me tornar o que poderia ser","archived":false,"deleted_at":null,"created_at":"2018-10-13 16:33:47","updated_at":"2018-10-13 16:33:47"},
+    {"id":20,"user_id":1,"author":"Albert Einstein","body":"Uma pessoa que nunca cometeu um erro, nunca tentou nada de novo","archived":false,"deleted_at":null,"created_at":"2018-10-13 16:33:47","updated_at":"2018-10-13 16:33:47"},
+    {"id":21,"user_id":1,"author":"George Eliot","body":"Nunca \u00e9 tarde demais para ser o que voc\u00ea poderia ter sido","archived":false,"deleted_at":null,"created_at":"2018-10-13 16:33:47","updated_at":"2018-10-13 16:33:47"},
+    {"id":22,"user_id":1,"author":"Dalai Lama","body":"Lembre-se que n\u00e3o conseguir o que voc\u00ea quer \u00e9 algumas vezes um lance de sorte","archived":false,"deleted_at":null,"created_at":"2018-10-13 16:33:47","updated_at":"2018-10-13 16:33:47"},
+    {"id":23,"user_id":1,"author":"Amyr Klink","body":"Um dia \u00e9 preciso parar de sonhar, tirar os planos da gaveta e, de algum modo, come\u00e7ar","archived":false,"deleted_at":null,"created_at":"2018-10-13 16:33:47","updated_at":"2018-10-13 16:33:47"},
+    {"id":24,"user_id":1,"author":"Peter Drucker","body":"Para ter um neg\u00f3cio de sucesso, algu\u00e9m, algum dia, teve que tomar uma atitude de coragem","archived":false,"deleted_at":null,"created_at":"2018-10-13 16:33:47","updated_at":"2018-10-13 16:33:47"},
+    {"id":25,"user_id":1,"author":"Ann Landers","body":"Normalmente as oportunidades est\u00e3o disfar\u00e7adas de trabalho duro, \u00e9 por isso que a maioria das pessoas n\u00e3o as reconhecem","archived":false,"deleted_at":null,"created_at":"2018-10-13 16:33:47","updated_at":"2018-10-13 16:33:47"},
+    {"id":26,"user_id":1,"author":"Theodore Roosevelt","body":"Fa\u00e7a o que voc\u00ea puder, onde voc\u00ea est\u00e1 e com o que voc\u00ea tem","archived":false,"deleted_at":null,"created_at":"2018-10-13 16:33:47","updated_at":"2018-10-13 16:33:47"},
+    {"id":27,"user_id":1,"author":"Winston Churchill","body":"Se voc\u00ea est\u00e1 atravessando o inferno, bem, continue atravessando","archived":false,"deleted_at":null,"created_at":"2018-10-13 16:33:47","updated_at":"2018-10-13 16:33:47"},
+    {"id":28,"user_id":1,"author":"dez\/2018 :: mourabraz","body":"A vida \u00e9 o que \u00e9... o resto \u00e9 imagina\u00e7\u00e3o.","archived":false,"deleted_at":null,"created_at":"2018-12-13 10:30:08","updated_at":"2018-12-13 10:30:08"}
+  ]
+}
